@@ -1,0 +1,42 @@
+*{
+padding:0%;
+box-sizing: border-box;
+}
+.main{
+width: 100;
+}
+
+h1 {
+color:red;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+color:orangered;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.left{
+font-size: 15px;
+margin-top: 10;
+float:left;
+color: brown;
+width:50%;
+}
+
+.right{
+    font-size: 15px;
+    float: right;
+    color:red;
+    width:50%;
+    }
+
+body{
+    background-color:#cccccc;
+}
+
+body{
+    background-image: url("paper.gif");
+}
